@@ -36,20 +36,19 @@ git clone https://github.com/portneon/VIKALP.git
 
 ---
 
-#PROJECT BY 
--*SHASHWAT SHARMA*
--*VAIBHAV SINGH*
--*SUSHANT KUMAR OJHA*
--*VANSH SINGHAL*
+## 👨‍💻 Project By
+- Shashwat Sharma  
+- Vaibhav Singh  
+- Sushant Kumar Ojha  
+- Vansh Singhal  
 
+## 🧑‍🏫 Guided and Supported By
+- Rishabh Bafna Sir  
+- Gautam Mahot Sir  
+- Yashwant Bangde Sir  
+- Himanshu Singh Sir  
+
+## 🙏 Special Thanks To
+- Mr. Gurpreet Singh Sir for his guidance and support
 
 ---
-#GUIDED AND SUPPORTED BY
--*RISHABH BAFNA SIR*
--*GAUTAM MAHOT SIR*
--*YASHWANT BANGDE SIR*
--*HIMANSHU SINGH SIR*
-
-
-#SPECIAL THANKS TO
--*MR GURPREET SINGH SIR* for his guidance and support
