@@ -34,7 +34,7 @@ This project explores the lyrical structure of Khalid’s songs through the lens
 git clone https://github.com/portneon/VIKALP.git
 ```
 
-
+---
 
 ##PROJECT BY 
 -*SHASHWAT SHARMA*
@@ -43,7 +43,7 @@ git clone https://github.com/portneon/VIKALP.git
 -*VANSH SINGHAL*
 
 
-
+---
 ##GUIDED AND SUPPORTED BY
 -*RISHABH BAFNA SIR*
 -*GAUTAM MAHOT SIR*
