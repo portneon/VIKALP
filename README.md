@@ -26,7 +26,7 @@ This project explores the lyrical structure of Khalid’s songs through the lens
 
 ---
 
-=
+
 
 2. Clone the repo:
 
@@ -36,7 +36,7 @@ git clone https://github.com/portneon/VIKALP.git
 
 ---
 
-##PROJECT BY 
+#PROJECT BY 
 -*SHASHWAT SHARMA*
 -*VAIBHAV SINGH*
 -*SUSHANT KUMAR OJHA*
@@ -44,12 +44,12 @@ git clone https://github.com/portneon/VIKALP.git
 
 
 ---
-##GUIDED AND SUPPORTED BY
+#GUIDED AND SUPPORTED BY
 -*RISHABH BAFNA SIR*
 -*GAUTAM MAHOT SIR*
 -*YASHWANT BANGDE SIR*
 -*HIMANSHU SINGH SIR*
 
 
-##SPECIAL THANKS TO
+#SPECIAL THANKS TO
 -*MR GURPREET SINGH SIR* for his guidance and support
